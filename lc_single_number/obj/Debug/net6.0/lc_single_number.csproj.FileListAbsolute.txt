@@ -1,0 +1,15 @@
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\bin\Debug\net6.0\lc_single_number.exe
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\bin\Debug\net6.0\lc_single_number.deps.json
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\bin\Debug\net6.0\lc_single_number.runtimeconfig.json
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\bin\Debug\net6.0\lc_single_number.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\bin\Debug\net6.0\lc_single_number.pdb
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\lc_single_number.csproj.AssemblyReference.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\lc_single_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\lc_single_number.AssemblyInfoInputs.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\lc_single_number.AssemblyInfo.cs
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\lc_single_number.csproj.CoreCompileInputs.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\lc_single_number.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\refint\lc_single_number.dll
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\lc_single_number.pdb
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\lc_single_number.genruntimeconfig.cache
+C:\Users\mrmem\Desktop\VS Projects\Leetcode Projects\lc_single_number\lc_single_number\obj\Debug\net6.0\ref\lc_single_number.dll
